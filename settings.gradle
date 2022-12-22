@@ -15,7 +15,7 @@ dependencyResolutionManagement {
         mavenCentral()
 
         maven {
-            url '/Users/poppap/Desktop/test_qrcode_module/build/host/outputs/repo'
+            url '/Users/poppap/Desktop/flutter_module_test/build/host/outputs/repo'
         }
         maven {
             url "$storageUrl/download.flutter.io"
